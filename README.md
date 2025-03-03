@@ -1,3 +1,3 @@
 # repo-demo
 this is first repo
-Auther = Meet Sarvaiya
+Auther = Meet Sarvaiya(from my home )
